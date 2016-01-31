@@ -1,4 +1,4 @@
--- Change to values for
+-- Change to values corresponding to your setup
 local WingClip = 6
 local AutoShot = 9
 
