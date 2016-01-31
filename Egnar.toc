@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Egnar
+## Notes: Show a range indicator for hunters
+## Author: Erodjan
+## Version: 0.1
+
+Egnar.xml
